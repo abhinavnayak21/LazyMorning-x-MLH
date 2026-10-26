@@ -1,0 +1,5 @@
+Product ideas for LazyMorning:
+- Local offline briefing generator that protects privacy completely.
+- Gentle tone with sloth mascot to reduce morning anxiety.
+- Automated daily digest trigger right before wake-up time.
+- Clean high-contrast cards with priority tags and focus highlights.
